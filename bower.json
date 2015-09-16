@@ -1,0 +1,20 @@
+{
+  "name": "js-meetup",
+  "version": "0.0.0",
+  "homepage": "https://github.com/aurelianonava/js-meetup",
+  "authors": [
+    "aurelianonava <sersinfin@gmail.com>"
+  ],
+  "description": "OC/LA JS Meetup Repo",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "reveal.js": "~3.1.0"
+  }
+}
