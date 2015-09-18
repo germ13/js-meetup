@@ -1,1 +1,6 @@
 # Gitignore file
+.DS_Store
+.svn
+log/*.log
+tmp/**
+bower_components
