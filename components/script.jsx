@@ -1,3 +1,5 @@
+var React = require('react');
+
 var Button = React.createClass({
     getInitialState: function() {
         return {counter: 0}
